@@ -8,4 +8,8 @@ public class Hello {
     public static void greetings(String name) {
         System.out.println("Welcome " + name);
     }
+
+    public static int (int x){
+        return x*x;
+    }
 }
