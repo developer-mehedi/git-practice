@@ -3,8 +3,8 @@ public class Hello {
         System.out.println("VS Code is Awesome....");
     }
 
-    public statc void sqr(int x) {
-        return x*x;
+    public statc void area(int x, int y, int z) {
+        return x*y*z;
     }
 
 } 
