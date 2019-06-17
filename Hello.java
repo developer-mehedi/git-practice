@@ -3,8 +3,8 @@ public class Hello {
         System.out.println("VS Code is Awesome....");
     }
 
-    public statc void sqr(int x) {
-        return x*x;
+    public static void display() {
+        System.out.println("Merge conflict bother a lot...");
     }
 
 } 
