@@ -3,16 +3,8 @@ public class Hello {
         System.out.println("VS Code is Awesome....");
     }
 
-    public static void message(){
-        System.out.println(" Hurrah! Now we are able to contribute on open sourse platform.... ");
-    }
-
-    public static int (int x){
+    public statc void sqr(int x) {
         return x*x;
-    }
-    
-    public static void add(int a, int b){
-        return a+b;
     }
 
 } 
