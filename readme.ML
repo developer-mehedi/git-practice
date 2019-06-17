@@ -1,1 +1,2 @@
-This is just a simple readme file.
+
+Hello VS code is awesome...
